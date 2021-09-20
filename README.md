@@ -1,9 +1,11 @@
 # Dice-Game
 A Simple Dice Game used to practice JavaScript
 
+
 How to play:
 
 Refresh the page to roll the dice, the higher of the 2 will be crowned the winner!
+
 
 Code Desc:
 
